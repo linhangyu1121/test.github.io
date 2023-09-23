@@ -130,8 +130,8 @@ h2, .h02 {
 	line-height: 1.25;
 }
 h3, .h03 {
-	font-size: 2rem;
-	line-height: 1.5;
+	font-size: 1rem;
+	line-height: 1;
 }
 h4, .h04 {
 	font-size: 1.7rem;
@@ -139,7 +139,7 @@ h4, .h04 {
 }
 h5, .h05 {
 	font-size: 1.4rem;
-	line-height: 1.714;
+	line-height: 4;
 	text-transform: uppercase;
 	letter-spacing: .15rem;
 }
@@ -2184,8 +2184,8 @@ header .logo a {
  */
 #stats {
 	background: #0050a0;
-	padding-top: 7.2rem;
-	padding-bottom: 6rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 	text-align: center;
 }
 #stats .row {
@@ -2204,8 +2204,8 @@ header .logo a {
 }
 #stats .stat-count {
 	color: #FFFFFF;
-	font-size: 3.6rem;
-	margin-top: 1.2rem;
+	font-size: 3.3rem;
+	margin-top: 3.2rem;
 	margin-bottom: 0;
 	font-family: "poppins-medium", sans-serif;
 	color: white;
